@@ -25,3 +25,6 @@
       screen
 - [ ] In ticket modal, user should be able to add tikets for multiple zones...
 - [x] Add separate ticket id for each seat selected
+
+## Latest Source Code Folder Location:
+- D:\Kishor\ADB Project   
